@@ -70,7 +70,7 @@ $fetch=mysqli_fetch_array($query);
     <footer class="footer text-center p-3" style="background-color: #d2b48c;">
         <hr>
         <p class="fw-bold">
-            &copy Hak Terpelihara Camie & Zaff (xde laa terpelihara mne...)
+            &copy Hak Terpelihara Camie & Zaff & Jep (xde laa terpelihara mne...)
         </p>
     </footer>
 </body>
